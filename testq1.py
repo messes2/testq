@@ -42,8 +42,8 @@ def testvalues(length):#function to generate random test values
     print("The random string used was",randomstring)#prints so that you can check it
     return randomstring#return random string
 
-print(incrementstringvalues("64force500@@@0point9999", 15))
-print(incrementstringvalues("force500@@@0point9999", 15))
+print(incrementstringvalues("64face500@@@0pint9999", 15))
+print(incrementstringvalues("face500@@@0pint9999", 15))
 print(incrementstringvalues("", 15))
 print(incrementstringvalues("aaaaaaaaaaaaaaaaaaaaaaaaaaa", 15))
 print(incrementstringvalues("0", 15))
